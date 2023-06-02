@@ -1,6 +1,7 @@
 body{
     font-family: 'Sono', sans-serif;
     background-color: rgb(25, 25, 25);
+    margin: 0;
   }
   #head-nav {
     margin-top: 20px;
