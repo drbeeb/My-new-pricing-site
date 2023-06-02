@@ -7,7 +7,7 @@ body{
     margin-top: 20px;
     display: flex;
     flex-wrap: wrap;
-    align-content: space-around;
+    align-content: center;
     justify-content: center;
     height: 10vh;
     background-color: rgb(95, 31, 154);
@@ -189,7 +189,7 @@ body{
     gap: 20px;
   }
   .content-box {
-    width: 400px;
+    width: 300px;
     border-radius: 50%;
     background-color: whitesmoke;
     position: relative;
@@ -211,7 +211,7 @@ body{
    
   }
   .content-box > ul li {
-    color: orangered;
+    color: rgb(103, 46, 156);;
     font-weight: 700;
     font-size: 20px;
 
